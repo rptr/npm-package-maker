@@ -1,0 +1,19 @@
+{
+  "name": "is-abounding",
+  "version": "1.0.0",
+  "description": "Checks whether a string is equal to abounding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rptr/npm-package-maker.git"
+  },
+  "author": "rptr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rptr/npm-package-maker/issues"
+  },
+  "homepage": "https://github.com/rptr/npm-package-maker#readme"
+}
