@@ -13,7 +13,7 @@ sub make_package {
     replace_word('package.json', $word);
 
     chdir 'new-package';
-    system('npm', 'publish', '--access public');
+    system('npm', 'publish', '--access', 'public');
     chdir '..';
 }
 
