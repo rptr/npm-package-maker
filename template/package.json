@@ -1,6 +1,6 @@
 {
   "name": "is-WORD",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Checks whether a string is equal to WORD",
   "main": "index.js",
   "scripts": {
